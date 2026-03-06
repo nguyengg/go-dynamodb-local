@@ -1,8 +1,10 @@
 # Test against DynamoDB local with Testcontainers
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/nguyengg/go-dynamodb-local.svg)](https://pkg.go.dev/github.com/nguyengg/go-dynamodb-local)
+
 Get with:
 ```shell
-go get github.com/nguyengg/go-aws-commons/go-dynamodb-local
+go get github.com/nguyengg/go-dynamodb-local
 ```
 
 Usage:
